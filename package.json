@@ -1,6 +1,6 @@
 {
   "name": "@jykang/kafka-connect-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
@@ -10,6 +10,12 @@
     "dev": "ts-node src/index.ts",
     "test": "jest"
   },
+  "keywords": [
+    "kafka",
+    "kafka-connect",
+    "apache-kafka",
+    "typescript"
+  ],
   "license": "MIT",
   "private": false,
   "repository": "https://github.com/titaniper/kafka-connect-client",
