@@ -2,6 +2,7 @@
   "compilerOptions": {
     "baseUrl": "./src",
     "outDir": "./dist",
+    "esModuleInterop": true,
     "useUnknownInCatchVariables": false,
     // "esModuleInterop": true,
     // "forceConsistentCasingInFileNames": true,
